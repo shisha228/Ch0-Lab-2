@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+C:\Users\USER\Desktop\107360101_陳建南\P18\source\main.c(10,27): warning C4047: '函式': 'rsize_t' 與 'char [60]' 間接取值的層級不同
+C:\Users\USER\Desktop\107360101_陳建南\P18\source\main.c(10,27): warning C4024: 'strcpy_s': 型式和實質參數 2 不同的類型
+C:\Users\USER\Desktop\107360101_陳建南\P18\source\main.c(10,27): error C2198: 'strcpy_s': 呼叫的引數太少
+C:\Users\USER\Desktop\107360101_陳建南\P18\source\main.c(15,10): warning C4098: 'main': 'void' 函式正在傳回值
